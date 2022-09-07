@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/loginpage" />
+    <file type="web" url="file://$PROJECT_DIR$/loginpage-t" />
+    <file type="web" url="file://$PROJECT_DIR$/untitled" />
+    <file type="web" url="file://$PROJECT_DIR$/untitled1" />
+    <file type="web" url="file://$PROJECT_DIR$/web01" />
+    <file type="web" url="file://$PROJECT_DIR$/web02" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/web01/pom.xml" />
+        <option value="$PROJECT_DIR$/web02/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/untitled1/pom.xml" />
+        <option value="$PROJECT_DIR$/loginpage/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="16" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
